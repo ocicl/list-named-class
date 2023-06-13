@@ -1,0 +1,10 @@
+* list-named-class
+
+CLOS extension - name classes after lists of symbols
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/list-named-class.git   |
+| commit  | 2955791  |
+| systems | list-named-class |
+|---------+-------------------------------------------|
+
