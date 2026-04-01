@@ -8,3 +8,4 @@ CLOS extension - name classes after lists of symbols
 | systems | list-named-class |
 |---------+-------------------------------------------|
 
+ 
